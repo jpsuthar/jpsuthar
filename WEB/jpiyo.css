@@ -1,0 +1,170 @@
+.mediaViewInfo {
+    --web-view-name: Web 1366 – 1;
+    --web-view-id: Web_1366___1;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}
+:root {
+    --web-view-ids: Web_1366___1;
+}
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+
+}
+#Container {
+    position: absolute;
+    width: 1366px;
+    height: 768px;
+    background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(176,221,246,1) 0%, rgba(255,255,255,1) 0.41%, rgba(238,243,246,1) 100%);
+    overflow: hidden;
+    --web-view-name: Web 1366 – 1;
+    --web-view-id: Web_1366___1;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}
+.header {
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+    position: absolute;
+    overflow: visible;
+    width: 1384px;
+    height: 143px;
+    left: 0px;
+    top: 0px;
+}
+#logo {
+    position: absolute;
+    width: 278px;
+    height: 106px;
+    left: 16px;
+    top: 10px;
+    overflow: visible;
+}
+.navigation {
+    position: absolute;
+    overflow: visible;
+    width: 168px;
+    height: 51px;
+    left: 642px;
+    top: 38px;
+}
+.buttonsub {
+    position: absolute;
+    overflow: visible;
+    width: 168px;
+    height: 51px;
+    left: 1175px;
+    top: 38px;
+}
+.navigation_m {
+    position: absolute;
+    overflow: visible;
+    width: 168px;
+    height: 51px;
+    left: 984px;
+    top: 38px;
+}
+.navigation_n {
+    position: absolute;
+    overflow: visible;
+    width: 168px;
+    height: 51px;
+    left: 813px;
+    top: 38px;
+}
+#LEARN {
+    position: absolute;
+    left: 645px;
+    top: 52px;
+    overflow: visible;
+    width: 164px;
+    height: 23px;
+    text-align: center;
+    font-family: Corbel;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    color: rgba(0,0,0,1);
+    letter-spacing: 0.3px;
+}
+#COURSES {
+    position: absolute;
+    left: 1178px;
+    top: 52px;
+    overflow: visible;
+    width: 164px;
+    height: 23px;
+    text-align: center;
+    font-family: Corbel;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    color: rgba(255,255,255,1);
+    letter-spacing: 0.3px;
+}
+#CONTACT {
+    position: absolute;
+    left: 987px;
+    top: 51px;
+    overflow: visible;
+    width: 164px;
+    height: 23px;
+    text-align: center;
+    font-family: Corbel;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    color: rgba(0,0,0,1);
+    letter-spacing: 0.3px;
+}
+#ABOUT {
+    position: absolute;
+    left: 816px;
+    top: 52px;
+    overflow: visible;
+    width: 164px;
+    height: 23px;
+    text-align: center;
+    font-family: Corbel;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    color: rgba(0,0,0,1);
+    letter-spacing: 0.3px;
+}
+.navigation_s {
+    position: absolute;
+    overflow: visible;
+    width: 168px;
+    height: 51px;
+    left: 471px;
+    top: 38px;
+}
+#COURSES_t {
+    position: absolute;
+    left: 474px;
+    top: 52px;
+    overflow: visible;
+    width: 164px;
+    height: 23px;
+    text-align: center;
+    font-family: Corbel;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    color: rgba(0,0,0,1);
+    letter-spacing: 0.3px;
+}
+#COURSES a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+a:hover {
+    color: #ff9f43;
+}
